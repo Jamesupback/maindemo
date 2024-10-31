@@ -54,6 +54,7 @@ section:nth-child(even){
     cursor: pointer;
     font-size: 1.7rem;
     background: #fff;
+    text-shadow: none;
 }
 .btn span{
     padding: .7rem 1rem;
@@ -93,7 +94,7 @@ section:nth-child(even){
 .header .navbar a{
     font-size: 1.7rem;
     color: var(--light-color);
-    margin-left: 2rem;
+    margin-left: 6rem;
 }
 .header .navbar a:hover{
     color: var(--green);
@@ -138,6 +139,7 @@ section:nth-child(even){
     color: var(--light-color);
     line-height: 1.8;
     padding: 1rem 0;
+    text-shadow: none;
 }
 /* Home Section End */
 
